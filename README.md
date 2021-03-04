@@ -147,7 +147,7 @@ do
 done  
 ```
 
-合并结果，结果为submission.csv
+合并结果，结果为submission.csv 
 
 ```shell
 python src/merge_submission.py
